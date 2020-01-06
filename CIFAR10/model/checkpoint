@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zxm/program/model/Cifar_10/normal_Cifar-19900"
+all_model_checkpoint_paths: "/home/zxm/program/model/Cifar_10/normal_Cifar-19900"
